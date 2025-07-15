@@ -53,9 +53,9 @@ Received: 77
 
 ## 🧠 Author & Credit
 
-Developed by [Your Name]  
+Developed by Nasim Koohestani  
 For **Operating Systems Course Project**  
-Supervised by Dr. Ziaei – University of [Your University Name]  
+Supervised by Dr. Ziaei 
 
 ## 📝 License
 
